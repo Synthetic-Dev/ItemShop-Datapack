@@ -1,0 +1,6 @@
+name: CustomTools
+description: A custom tools library for objD by SimuNews Softwares
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  objd: ^0.4.3
